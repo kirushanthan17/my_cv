@@ -1,0 +1,21 @@
+.cv{
+    
+    border-radius: 4px;
+    text-decoration: none;
+    padding: 12px;
+    background-color: rgb(192, 214, 192);
+    color: white;
+}
+
+.cv:hover{
+   
+   
+    color: yellow;
+    transition: 2s;
+}
+
+.w3-container{
+    border-top-right-radius: 55px;
+    border-bottom-right-radius: 55px;
+    
+}
